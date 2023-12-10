@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FontKey.js",
+      "sha1": "9ddfc53e1e75833ddb8946ac61c9a1ddea99fa85"
+    },
+    {
+      "path": "assets/fonts/Gotham-Black.otf",
+      "sha1": "a3cdcc0c2ff9c6289ccc5ae1bb9eade3395626da"
+    },
+    {
+      "path": "assets/fonts/Gotham-Bold.otf",
+      "sha1": "5963224900d40f243ab3c8ec35f21adfbb60cf1d"
+    },
+    {
+      "path": "assets/fonts/Gotham-Light.otf",
+      "sha1": "3abc902e40df2ec26333b919d268556bfc6cb723"
+    },
+    {
+      "path": "assets/fonts/Gotham-Thin.otf",
+      "sha1": "8c674e85861583ea43c472973a3b09da9ba4d792"
+    },
+    {
+      "path": "assets/fonts/Gotham-ThinItalic.otf",
+      "sha1": "a37567b03b962ddfa20131463b2753174e92d593"
+    },
+    {
+      "path": "assets/fonts/Gotham-UltraItalic.otf",
+      "sha1": "ac639d09e69620d6a06f9c6a6f73c853818cdbf9"
+    },
+    {
+      "path": "assets/fonts/Gotham-XLight.otf",
+      "sha1": "c370235de05219139b91d7ef68ea560d0bf90b4b"
+    },
+    {
+      "path": "assets/fonts/Gotham-XLightItalic.otf",
+      "sha1": "afc40a573f2612530c9777feef9c456009caa38f"
+    },
+    {
+      "path": "assets/fonts/blowbrush.otf",
+      "sha1": "11fa8f6172a7a4b86655ff91e5392379f6b779fb"
+    }
+  ]
+}
